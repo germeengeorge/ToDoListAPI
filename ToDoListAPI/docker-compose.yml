@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  todo-app:
+    image: 1522004/todolist:v1.0.0  
+    container_name: todo-app-container
+    ports:
+      - "8080:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production  
+    restart: unless-stopped
