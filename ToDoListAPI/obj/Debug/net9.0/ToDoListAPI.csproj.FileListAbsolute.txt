@@ -174,3 +174,4 @@ D:\Asp.net projects\ToDoListAPI\ToDoListAPI\bin\Debug\net9.0\Microsoft.Web.Infra
 D:\Asp.net projects\ToDoListAPI\ToDoListAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
 D:\Asp.net projects\ToDoListAPI\ToDoListAPI\bin\Debug\net9.0\Swashbuckle.Core.dll
 D:\Asp.net projects\ToDoListAPI\ToDoListAPI\bin\Debug\net9.0\WebActivatorEx.dll
+D:\Asp.net projects\ToDoListAPI\ToDoListAPI\obj\Debug\net9.0\ToDoListAPI.sourcelink.json
